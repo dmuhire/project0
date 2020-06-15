@@ -1,6 +1,4 @@
 # Project 0
-
-Web Programming with Python and JavaScript
 my name is Derrick and i am 21 years old ,
 cs50 project0 i designed a website called visit Rwanda ,
 after seing that my country is encouraging the world to visit it's nature beauty 
